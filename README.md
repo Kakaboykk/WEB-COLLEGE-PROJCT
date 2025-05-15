@@ -1,3 +1,7 @@
+## Developers
+
+- NotKedrig (Code Author)
+- Kakaboykk (Deployment & Hosting)
 
 
 
